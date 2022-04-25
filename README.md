@@ -1,8 +1,6 @@
 
 
 
-# Part 1: Deploy a Program
-
 Build and deploy a program written in Rust that can retrieve price feed data from the [Solana Devnet Feeds](https://docs.chain.link/docs/solana-price-feeds/).
 This program depends on parts of the [smartcontractkit/chainlink-solana](https://github.com/smartcontractkit/chainlink-solana) repository. See the [`Cargo.toml`](https://github.com/smartcontractkit/chainlink-solana-demo/blob/main/Cargo.toml) file for the full list of dependencies.
 
